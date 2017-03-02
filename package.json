@@ -1,0 +1,22 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "gulp-mocha": "^3.0.1",
+    "gulp-util": "^3.0.8",
+    "mocha": "^3.2.0",
+    "sinon": "^1.17.7"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "mocha": "^3.2.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Aakash",
+  "license": "ISC"
+}
